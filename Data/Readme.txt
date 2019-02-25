@@ -1,0 +1,1 @@
+Download the imagenet dataset into this folder
